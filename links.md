@@ -32,10 +32,23 @@
   * https://www.phpied.com/3-ways-to-define-a-javascript-class/
 
 ## Chapter 9
-  * http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code
-  * http://benalman.com/news/2010/11/immediately-invoked-function-expression/
-  * http://groups.google.com/group/comp.lang.javascript/msg/9f58bd11bd67d937
-  * http://dojotoolkit.org/reference-guide/1.7/dojo/setObject.html
-  * http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
-  * https://www.ibm.com/developerworks/webservices/library/co-single/index.html
-  * http://misko.hevery.com/2008/10/21/dependency-injection-myth-reference-passing/
+  ### Constructor Pattern
+    * http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code
+    * http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+    * http://groups.google.com/group/comp.lang.javascript/msg/9f58bd11bd67d937
+    * http://dojotoolkit.org/reference-guide/1.7/dojo/setObject.html
+  ### Module Pattern
+    * http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+  ### Singleton Pattern
+    * https://www.ibm.com/developerworks/webservices/library/co-single/index.html
+    * http://misko.hevery.com/2008/10/21/dependency-injection-myth-reference-passing/
+  ### Observer Pattern
+    * http://amplifyjs.com/
+    * http://radio.uxder.com/
+    * https://github.com/mroderick/PubSubJS
+    * https://github.com/phiggins42/bloody-jquery-plugins/blob/55e41df9bf08f42378bb08b93efcb28555b61aeb/pubsub.js
+    * https://gist.github.com/cowboy/661855
+    * https://gist.github.com/rwaldron/705311
+    * https://github.com/phiggins42/bloody-jquery-plugins/blob/master/pubsub.js
+    * https://gist.github.com/bentruyman/826794
+    * https://github.com/addyosmani/pubsubz
