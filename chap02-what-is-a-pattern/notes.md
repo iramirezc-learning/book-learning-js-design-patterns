@@ -1,22 +1,19 @@
-# Chapter 2 self-notes
+# Learning JavaScript Design Patterns
 
-## What is a Pattern?
+## Chapter 2. What is a Pattern?
 
-_What is a Design Pattern?_
+### What is a Design Pattern?
 
-Is a reusable solution that can be applied to common problems. They can be seen as templates for how to solve problems.
+> Is a reusable solution that can be applied to common problems. They can be seen as templates for how to solve problems.
 
-_Benefits of Design Patterns_
+### Benefits of Design Patterns
 
-* Patterns are proven solutions.
-* Patterns can be easily reused.
-* Patterns can be expressive.
+> * Patterns are proven solutions.
+> * Patterns can be easily reused.
+> * Patterns can be expressive.
 
 ___
 
-_Patterns are NOT exact solutions_
+### Patterns are NOT exact solutions
 
-They only provide a solution scheme.
-
-
-
+> They only provide a solution scheme.

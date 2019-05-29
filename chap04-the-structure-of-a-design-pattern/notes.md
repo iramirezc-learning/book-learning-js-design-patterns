@@ -1,18 +1,18 @@
-# Chapter 4 self-notes
+# Learning JavaScript Design Patterns
 
-## The structure of a Design Pattern
+## Chapter 4. The structure of a Design Pattern
 
-_A pattern should have_
+### A pattern should have:
 
-* Pattern name
-* Description
-* Problem statement
-* Solution
-* Design
-* Implementation
-* Illustrations
-* Examples
-* Corequisites
-* Relations
-* Known usage
-* Discussions 
+> * Pattern name
+> * Description
+> * Problem statement
+> * Solution
+> * Design
+> * Implementation
+> * Illustrations
+> * Examples
+> * Co-requisites
+> * Relations
+> * Known usage
+> * Discussions

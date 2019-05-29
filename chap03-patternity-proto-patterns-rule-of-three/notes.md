@@ -1,20 +1,20 @@
-# Chapter 3 self-notes
+# Learning JavaScript Design Patterns
 
-## "Pattern"-ity Testing, Proto-Patterns, and the Rule of Three
+## Chapter 3. "Pattern"-ity Testing, Proto-Patterns, and the Rule of Three
 
-_Proto-Pattern_
+### Proto-Pattern
 
-A pattern designed by someone and shared with the community but that has not been vetted yet. aka Patlets.
+> A pattern designed by someone and shared with the community but that has not been vetted yet, aka patlets.
 
-_A "good" Pattern_
+### A "good" Pattern
 
-* Solves a particular problem
-* Does not have and obvious solution
-* Describes a proven concept
-* Describes a relationship
+> * Solves a particular problem
+> * Does not have and obvious solution
+> * Describes a proven concept
+> * Describes a relationship
 
-_The rule of three_
+### The rule of three
 
-* Fitness of purpose
-* Usefulness
-* Applicability
+> * Fitness of purpose
+> * Usefulness
+> * Applicability

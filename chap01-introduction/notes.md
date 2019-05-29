@@ -1,13 +1,13 @@
-# Chapter 1 self-notes
+# Learning JavaScript Design Patterns
 
-## Introduction
+## Chapter 1. Introduction
 
-"One of the most important aspects of writing maintanable code is the ability to notice recurring themes in that code and optimize them"
+"One of the most important aspects of writing maintainable code is the ability to notice recurring themes in that code and optimize them"
 
-_Architect by which Design Patterns in software were inspired of_
+### Architect by which Design Patterns in software were inspired of
 
-Christopher Alexander
+> Christopher Alexander
 
-_Iconic formal work about design patterns in software engineering_
+### Iconic formal work about design patterns in software engineering
 
-Design Patterns: Elements of Reusable Object-Oriented Software
+> Design Patterns: Elements of Reusable Object-Oriented Software

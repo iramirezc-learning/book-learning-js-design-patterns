@@ -1,6 +1,6 @@
-# Chapter 8 self-notes
+# Learning JavaScript Design Patterns
 
-## Design Pattern Categorization
+## Chapter 8. Design Pattern Categorization
 
 ### Creational
 

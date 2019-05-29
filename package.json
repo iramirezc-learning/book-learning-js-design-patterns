@@ -1,0 +1,20 @@
+{
+  "name": "js-design-patterns-book",
+  "version": "1.0.0",
+  "description": "My personal notes about JS Design Patterns",
+  "scripts": {
+    "test": "mocha './**/*.test.js'"
+  },
+  "author": "Isaac Ramírez <iramirezc@live.com.mx>",
+  "license": "ISC",
+  "standard": {
+    "globals": [
+      "after",
+      "afterEach",
+      "before",
+      "beforeEach",
+      "describe",
+      "it"
+    ]
+  }
+}
