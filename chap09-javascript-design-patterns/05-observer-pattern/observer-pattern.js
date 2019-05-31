@@ -1,6 +1,3 @@
-// hackish module to work in the browser
-if (!module) { var module = { } } // eslint-disable-line
-
 /**
  * ObserverList Class. Used by Subject to keep track of its observers
  */
