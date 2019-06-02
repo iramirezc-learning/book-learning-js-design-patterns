@@ -24,3 +24,7 @@
 #### Concrete Class
 
 > A Concrete Class is a derived class which implements the missing functionality of an Abstract class.
+
+### Facade Pattern
+
+> It hides the complexity of use of an API by providing an interface which is easier to use, hiding all the implementation details from the user.
