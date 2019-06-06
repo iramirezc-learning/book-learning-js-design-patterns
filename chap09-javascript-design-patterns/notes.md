@@ -28,3 +28,12 @@
 ### Facade Pattern
 
 > It hides the complexity of use of an API by providing an interface which is easier to use, hiding all the implementation details from the user.
+
+### Factory Pattern
+
+> When to use?
+>
+> * When creating objects or components is really complex
+> * When we need to create different instances of objects
+> * When working with a lot of small objects that share the same properties.
+> * When composing objects with instances of other objects
