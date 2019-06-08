@@ -54,7 +54,7 @@ describe('Module Pattern - Unit Tests', () => {
     })
 
     describe('basket module', () => {
-      it('should add items and the the total price and count', () => {
+      it('should add items and the total price and count', () => {
         basket.addItem({
           item: 'bread',
           price: 0.5

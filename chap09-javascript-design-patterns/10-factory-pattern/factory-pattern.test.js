@@ -2,7 +2,7 @@ const assert = require('assert')
 
 const { Car, Truck, VehicleFactory, TruckFactory, AbstractVehicleFactory } = require('./factory-pattern')
 
-describe('The Factory Pattern - Unit Tests', () => {
+describe('Factory Pattern - Unit Tests', () => {
   describe('Vehicle Factory', () => {
     let carFactory
 
