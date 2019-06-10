@@ -1,4 +1,6 @@
-# Links and references in the book
+# Link and resources
+
+Quick reference for the links provided in the book by chapter
 
 ## Chapter 1
 
@@ -69,3 +71,33 @@
 * https://github.com/phiggins42/bloody-jquery-plugins/blob/master/pubsub.js
 * https://gist.github.com/bentruyman/826794
 * https://github.com/addyosmani/pubsubz
+
+### Mediator Pattern
+
+* none
+
+### Prototype Pattern
+
+* none
+
+### Command Pattern
+
+* none
+
+### Facade Pattern
+
+* http://jsperf.com/getelementbyid-vs-jquery-id
+
+### Factory Pattern
+
+* none
+
+### Mixin Pattern
+
+* none
+
+### Decorator Pattern
+
+* [Book: Pro JavaScript Design Patterns Object Oriented](https://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X)
+* [Interface implementation gist](https://gist.github.com/addyosmani/1057989)
+* [Complete code example of the MacBookDecorators](http://jsbin.com/UMEJaXu/1/edit?html,js,output)
