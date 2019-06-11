@@ -101,3 +101,7 @@ Quick reference for the links provided in the book by chapter
 * [Book: Pro JavaScript Design Patterns Object Oriented](https://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X)
 * [Interface implementation gist](https://gist.github.com/addyosmani/1057989)
 * [Complete code example of the MacBookDecorators](http://jsbin.com/UMEJaXu/1/edit?html,js,output)
+
+### Flyweight Pattern
+
+* [Flyweight Pattern - Wikipedia](https://en.wikipedia.org/wiki/Flyweight_pattern)

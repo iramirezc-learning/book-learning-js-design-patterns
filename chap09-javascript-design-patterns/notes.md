@@ -37,3 +37,31 @@
 > * When we need to create different instances of objects
 > * When working with a lot of small objects that share the same properties.
 > * When composing objects with instances of other objects
+
+### Flyweight Pattern
+
+> The Flyweight pattern is a classical structural solution for optimizing code that is repetitive, slow and inefficiently shares data. It aims to minimize the use of memory in an application by sharing as much data as possible with related objects.
+
+#### The two states of a Flyweight Pattern
+
+##### Intrinsic
+
+> Intrinsic information may be required by internal methods in our objects which they absolutely cannot function without.
+
+##### Extrinsic
+
+> Extrinsic information can however be removed and stored externally.
+
+#### Types of Flyweight components
+
+##### Flyweight
+
+> defines an interface through which flyweights are able to receive and act on existing states.
+
+##### Concrete Flyweight
+
+> actually implements the Flyweight interface and stores intrinsic state. Concrete Flyweights need to be shareable and capable of manipulating state tha is extrinsic.
+
+##### Flyweights Factory
+
+> manages flyweight objects and creates them too. it makes sure that our flyweights are shared and manages them as a group of objects which can be queried if we require individual instances. If an object has been already created in the group it returns it, otherwise it adds a new object to the pool and returns it.
